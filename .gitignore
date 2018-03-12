@@ -7,3 +7,6 @@ dist
 # IDE
 .vs_code
 .idea
+
+# Config
+config/config.js
