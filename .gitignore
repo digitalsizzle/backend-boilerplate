@@ -9,4 +9,4 @@ dist
 .idea
 
 # Config
-config/config.js
+src/config/config.js
